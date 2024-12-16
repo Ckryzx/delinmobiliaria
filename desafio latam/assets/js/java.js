@@ -16,7 +16,7 @@ const items = [
       type: "rent",
     },
     {
-      pphoto: 'assets/img/casa_canada.jpg',
+      photo: 'assets/img/casa_canada.png',
       name: "Cabaña moderna en el corazón de Vancouver",
       description: "Económica y cómoda, esta cabaña ofrece la mezcla perfecta entre naturaleza y accesibilidad a los encantos de Vancouver.",
       smoke: false,
